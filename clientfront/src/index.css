@@ -1,0 +1,40 @@
+*{
+  margin:0;
+  padding:0;
+}
+.google{
+  background-color:#df493e;
+}
+.face{
+  background-color:#507cc0;
+}
+.git{
+  background-color:black;
+}
+.lg{
+width:20px;
+height:20px;
+margin-right:10px;
+}
+input{
+  width:200px;
+  padding:15px 20px;
+  margin-bottom:20px;
+}
+.butn{
+  background-color:rgba(102,16,83,0.698);
+  color:white;
+  font-size:22px;
+  border:none;
+  border-radius:5px;
+  padding:10px 15px;
+}
+.headi{
+  position:absolute;
+  top:15%;
+  color:grey;
+}
+.link{
+  color:inherit;
+  text-decoration: none;
+}
